@@ -34,13 +34,5 @@ class Main {
         s_int_lst.printStack();
         System.out.printf("Size: %d\n\n", s_int_lst.size());
         
-        
-
-        // ArrayList<String> list = new ArrayList<String>();
-        // list.add("hie");
-        // list.add("sfdsaf");
-        // list.add("dsafstc");
-        // Stack<String> s2 = new Stack<String>(list);
-        // s2.printStack();
     }
 }

@@ -5,6 +5,6 @@ stack: compile
 	
 compile: 
 	@echo "\nCompiling Files ...\n" 
-	@javac Main.java -d class_files
+	@javac -d class_files Main.java
 	
 	
